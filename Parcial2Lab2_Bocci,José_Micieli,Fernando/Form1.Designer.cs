@@ -56,9 +56,10 @@
             // rbtnPantalon
             // 
             this.rbtnPantalon.AutoSize = true;
-            this.rbtnPantalon.Location = new System.Drawing.Point(96, 131);
+            this.rbtnPantalon.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rbtnPantalon.Location = new System.Drawing.Point(85, 131);
             this.rbtnPantalon.Name = "rbtnPantalon";
-            this.rbtnPantalon.Size = new System.Drawing.Size(67, 17);
+            this.rbtnPantalon.Size = new System.Drawing.Size(115, 29);
             this.rbtnPantalon.TabIndex = 2;
             this.rbtnPantalon.TabStop = true;
             this.rbtnPantalon.Text = "Pantalón";
@@ -68,91 +69,102 @@
             // cbxMangaCorta
             // 
             this.cbxMangaCorta.AutoSize = true;
-            this.cbxMangaCorta.Location = new System.Drawing.Point(355, 89);
+            this.cbxMangaCorta.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxMangaCorta.Location = new System.Drawing.Point(228, 87);
             this.cbxMangaCorta.Name = "cbxMangaCorta";
-            this.cbxMangaCorta.Size = new System.Drawing.Size(86, 17);
+            this.cbxMangaCorta.Size = new System.Drawing.Size(284, 29);
             this.cbxMangaCorta.TabIndex = 3;
-            this.cbxMangaCorta.Text = "Manga corta";
+            this.cbxMangaCorta.Text = "Manga corta (10% menos)";
             this.cbxMangaCorta.UseVisualStyleBackColor = true;
             // 
             // cbxBermuda
             // 
             this.cbxBermuda.AutoSize = true;
-            this.cbxBermuda.Location = new System.Drawing.Point(355, 131);
+            this.cbxBermuda.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbxBermuda.Location = new System.Drawing.Point(228, 132);
             this.cbxBermuda.Name = "cbxBermuda";
-            this.cbxBermuda.Size = new System.Drawing.Size(68, 17);
+            this.cbxBermuda.Size = new System.Drawing.Size(250, 29);
             this.cbxBermuda.TabIndex = 4;
-            this.cbxBermuda.Text = "Bermuda";
+            this.cbxBermuda.Text = "Bermuda (20% menos)";
             this.cbxBermuda.UseVisualStyleBackColor = true;
             // 
             // txtPrecio
             // 
-            this.txtPrecio.Location = new System.Drawing.Point(85, 337);
+            this.txtPrecio.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPrecio.Location = new System.Drawing.Point(58, 321);
             this.txtPrecio.Name = "txtPrecio";
-            this.txtPrecio.Size = new System.Drawing.Size(100, 20);
+            this.txtPrecio.Size = new System.Drawing.Size(167, 31);
             this.txtPrecio.TabIndex = 6;
             // 
             // txtCantidad
             // 
-            this.txtCantidad.Location = new System.Drawing.Point(335, 337);
+            this.txtCantidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtCantidad.Location = new System.Drawing.Point(326, 321);
             this.txtCantidad.Name = "txtCantidad";
-            this.txtCantidad.Size = new System.Drawing.Size(100, 20);
+            this.txtCantidad.Size = new System.Drawing.Size(145, 31);
             this.txtCantidad.TabIndex = 7;
             // 
             // lblPrecio
             // 
             this.lblPrecio.AutoSize = true;
-            this.lblPrecio.Location = new System.Drawing.Point(85, 302);
+            this.lblPrecio.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPrecio.Location = new System.Drawing.Point(53, 289);
             this.lblPrecio.Name = "lblPrecio";
-            this.lblPrecio.Size = new System.Drawing.Size(76, 13);
+            this.lblPrecio.Size = new System.Drawing.Size(172, 29);
             this.lblPrecio.TabIndex = 8;
             this.lblPrecio.Text = "Precio Unitario";
             // 
             // lblCantidad
             // 
             this.lblCantidad.AutoSize = true;
-            this.lblCantidad.Location = new System.Drawing.Point(334, 301);
+            this.lblCantidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCantidad.Location = new System.Drawing.Point(330, 289);
             this.lblCantidad.Name = "lblCantidad";
-            this.lblCantidad.Size = new System.Drawing.Size(49, 13);
+            this.lblCantidad.Size = new System.Drawing.Size(109, 29);
             this.lblCantidad.TabIndex = 9;
             this.lblCantidad.Text = "Cantidad";
             // 
             // btnCalcular
             // 
+            this.btnCalcular.BackColor = System.Drawing.Color.Gold;
+            this.btnCalcular.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCalcular.Location = new System.Drawing.Point(120, 363);
             this.btnCalcular.Name = "btnCalcular";
             this.btnCalcular.Size = new System.Drawing.Size(273, 76);
             this.btnCalcular.TabIndex = 10;
             this.btnCalcular.Text = "Calcular Precio Final";
-            this.btnCalcular.UseVisualStyleBackColor = true;
+            this.btnCalcular.UseVisualStyleBackColor = false;
             this.btnCalcular.Click += new System.EventHandler(this.btnCalcular_Click);
             // 
             // lblCalidad
             // 
             this.lblCalidad.AutoSize = true;
-            this.lblCalidad.Location = new System.Drawing.Point(85, 194);
+            this.lblCalidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblCalidad.Location = new System.Drawing.Point(144, 183);
             this.lblCalidad.Name = "lblCalidad";
-            this.lblCalidad.Size = new System.Drawing.Size(93, 13);
+            this.lblCalidad.Size = new System.Drawing.Size(212, 29);
             this.lblCalidad.TabIndex = 11;
             this.lblCalidad.Text = "Calidad de prenda";
             // 
             // comboBoxCalidad
             // 
+            this.comboBoxCalidad.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.comboBoxCalidad.FormattingEnabled = true;
             this.comboBoxCalidad.Items.AddRange(new object[] {
-            "Standard",
-            "Premium"});
-            this.comboBoxCalidad.Location = new System.Drawing.Point(85, 231);
+            "Standard (No afecta al precio)",
+            "Premium (Recargo en el precio del 30%)"});
+            this.comboBoxCalidad.Location = new System.Drawing.Point(58, 231);
             this.comboBoxCalidad.Name = "comboBoxCalidad";
-            this.comboBoxCalidad.Size = new System.Drawing.Size(121, 21);
+            this.comboBoxCalidad.Size = new System.Drawing.Size(413, 33);
             this.comboBoxCalidad.TabIndex = 12;
             // 
             // rbtnCamisa
             // 
             this.rbtnCamisa.AutoSize = true;
-            this.rbtnCamisa.Location = new System.Drawing.Point(93, 88);
+            this.rbtnCamisa.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.rbtnCamisa.Location = new System.Drawing.Point(88, 87);
             this.rbtnCamisa.Name = "rbtnCamisa";
-            this.rbtnCamisa.Size = new System.Drawing.Size(59, 17);
+            this.rbtnCamisa.Size = new System.Drawing.Size(102, 29);
             this.rbtnCamisa.TabIndex = 13;
             this.rbtnCamisa.TabStop = true;
             this.rbtnCamisa.Text = "Camisa";

@@ -102,7 +102,7 @@ namespace WindowsFormsApp1
                     MessageBox.Show("Error al ingresar el precio. Compruebe por favor", "ERROR");
                 }
             }
-#endregion
+            #endregion
             #region(PANTALON)
             if (rbtnPantalon.Checked == true && cbxBermuda.Checked == true)
             {
