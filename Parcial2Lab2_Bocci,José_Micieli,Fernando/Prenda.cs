@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsApp1
 {
-    class Prenda
+    abstract class Prenda
     {
         private bool calidadPrenda = false;
         private int precio;

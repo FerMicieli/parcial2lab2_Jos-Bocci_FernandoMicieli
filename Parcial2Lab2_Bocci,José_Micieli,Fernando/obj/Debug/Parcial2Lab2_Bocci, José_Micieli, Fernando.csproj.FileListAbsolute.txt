@@ -8,3 +8,13 @@ C:\Users\jose\source\repos\WindowsFormsApp1\obj\Debug\Parcial2Lab2_Bocci, José_
 C:\Users\jose\source\repos\WindowsFormsApp1\obj\Debug\Parcial2Lab2_Bocci, José_Micieli, Fernando.csproj.CoreCompileInputs.cache
 C:\Users\jose\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\jose\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\Parcial2Lab2_Bocci, José_Micieli, Fernando.csprojAssemblyReference.cache
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\Parcial2Lab2_Bocci, José_Micieli, Fernando.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\Parcial2Lab2_Bocci, José_Micieli, Fernando.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\WindowsFormsApp1.exe
+C:\Users\jose\Desktop\parcial2lab2_JoseBocci_FernandoMicieli\Parcial2Lab2_Bocci,José_Micieli,Fernando\obj\Debug\WindowsFormsApp1.pdb
